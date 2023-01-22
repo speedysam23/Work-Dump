@@ -8,7 +8,7 @@
 
 #Question 2
 fn = str(input("What is your first name?"))
-mnDec = str(input("Do you hav multiple middle names?"))
+mnDec = str(input("Do you have multiple middle names?"))
 mnDec = mnDec.lower
 if mnDec == ("yes"):
     mn = str(input("What are your middle names?"))
