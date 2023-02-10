@@ -56,3 +56,4 @@ Ally1 = Ally("Hercules",1000, "I'LL SAVE YOU")
 Ally1.describe()
 Ally1.speak()
 Ally1.damage()
+
