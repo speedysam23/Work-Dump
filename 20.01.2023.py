@@ -22,21 +22,6 @@ print ("Your name is",fn,mn,ln)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #                              CASTING, RANDOM NUMBERS AND MATHS
 
 #Question 1
