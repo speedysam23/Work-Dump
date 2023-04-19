@@ -18,25 +18,6 @@ ln = str(input("What is your last name?"))
 
 print ("Your name is",fn,mn,ln)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #                              CASTING, RANDOM NUMBERS AND MATHS
 
 #Question 1
